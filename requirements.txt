@@ -1,0 +1,10 @@
+# Tested with Python 3.13 and mlflow 3.17.2 (October 2026). Python 3.10+ works.
+mlflow>=3.17,<4
+scikit-learn>=1.5
+xgboost>=2.0
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+optuna>=4.0
+requests>=2.31
+jupyter

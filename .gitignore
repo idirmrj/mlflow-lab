@@ -1,0 +1,21 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MLflow local state (created when you run the lab)
+mlflow.db
+mlartifacts/
+mlruns/
+
+# Lab outputs
+data/scores_july.csv
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
