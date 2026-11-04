@@ -1,0 +1,45 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "LOGINS_30D",
+      "PURCHASES_30D",
+      "SPEND_30D",
+      "TICKETS_30D",
+      "TENURE_DAYS",
+      "PLAN_TIER",
+      "COUNTRY"
+    ],
+    "data": [
+      [
+        14,
+        6,
+        834.89,
+        4,
+        354,
+        1,
+        "ES"
+      ],
+      [
+        16,
+        4,
+        410.07,
+        3,
+        577,
+        2,
+        "FR"
+      ],
+      [
+        8,
+        2,
+        47.55,
+        6,
+        1474,
+        0,
+        "IT"
+      ]
+    ]
+  },
+  "params": {
+    "threshold": 0.3
+  }
+}
